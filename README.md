@@ -70,8 +70,3 @@
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
-For any questions or feedback, feel free to contact me at [your.email@example.com].
-
----
-
-Feel free to modify the content to better fit your project specifics.
